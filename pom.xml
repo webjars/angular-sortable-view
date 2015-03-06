@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-sortable-view</artifactId>
-    <version>0.0.13</version>
+    <version>0.0.13-SNAPSHOT</version>
     <name>angular-sortable-view</name>
     <description>Fully declarative (multi)sortable for AngularJS</description>
     <url>http://webjars.org</url>
